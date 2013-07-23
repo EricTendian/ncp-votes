@@ -1,0 +1,11 @@
+application/config.php
+application/database.php
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+.vagrant*
+Vagrantfile
+*.sublime*
+sftp-config.json
